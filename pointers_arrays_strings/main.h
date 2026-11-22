@@ -14,3 +14,4 @@ char *_strcpy(char *dest, char *src);
 void print_array(int *a, int n);
 
 #endif
+int _atoi(char *s);
